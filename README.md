@@ -1,6 +1,7 @@
 
 [![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
+[Download Now](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
 # iOS Calculator for Android Mobile
 
