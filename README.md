@@ -1,5 +1,5 @@
 
-[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/main/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
 [Download Now](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
@@ -94,7 +94,7 @@ Characteristics :
 
 Customize display mode             |  Change calculator color             |  Calculator history
 :-------------------------:|:-------------------------:|:-------------------------:
-[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/1-1.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)  |  [![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/22.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)|  [![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/7.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/main/img/1-1.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)  |  [![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/main/img/22.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)|  [![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/main/img/7.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
 
 [Download iOS Style calculator/ iPhone Calculator/ Apple calculator from play store](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
