@@ -8,7 +8,7 @@ If you are looking for an iOS style calculator for your Android mobile, this is 
  
    <br>
   
-## calculation modes in iOS calculator
+## Calculation modes in iOS calculator
 
 
 you can see two calculation modes in this iOS calculator app. 
@@ -25,7 +25,7 @@ In iOS calculator mode the calculations will display as a real iPhone Calculator
 
 <br>
 
-## change the color of iOS calculator
+## Change the color of iOS calculator
 
 Also you can customize the calculatos colors from settings. It allows you to 
 1. Change the background color of the iOS Calculator
@@ -34,7 +34,7 @@ Also you can customize the calculatos colors from settings. It allows you to
 
 <br>
 
-## calculator sounds
+## Calculator sounds
 
 you can feel vibrate when you press the button on the iOS calculator. IF you dont like this vibrate effect you can turn off this from settings. it will help you to best user experience when you using iPhone calculator.
 
