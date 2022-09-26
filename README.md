@@ -85,7 +85,10 @@ Characteristics :
 
 <br>
 
-[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/icon.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/1.png?raw=false)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
+
+
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/1.png?raw=false)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
 
 
