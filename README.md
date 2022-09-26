@@ -81,7 +81,7 @@ Characteristics :
 
 <br>
 
-[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.StatusSaver)
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
 
 
