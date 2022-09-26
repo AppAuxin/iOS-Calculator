@@ -50,7 +50,7 @@ If you are lokking for Ads free iOS style calculator, This is a best iPhone calc
 
 MORE : 
 
-This Calculator is meant to simplify your life by making your day to day tasks, and your finance, easier to calculate.
+This [Calculator](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator) is meant to simplify your life by making your day to day tasks, and your finance, easier to calculate.
 It is a must-have for everyone that is used to the original -iphone calculator, and a must-try for everyone curious about the -i os app suite experience.
 The app has a multitude of features like swipe right to remove, swipe left to undo, the percentage button for quick price adjustment calculus and a lot more.
 Landscape mode was added. It can perform scientific calculus.
