@@ -1,3 +1,7 @@
+
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
+
+
 # iOS Calculator for Android Mobile
 
 If you are looking for an iOS style calculator for your Android mobile, this is a best calculator for you. you can get the iPhone calculator experience from this iOS Calculator app using your android device.  
@@ -81,7 +85,7 @@ Characteristics :
 
 <br>
 
-[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/bannerImg.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
+[![iOS Calculator/Apple Calculator](https://github.com/AppAuxin/iOS-Calculator/blob/dev/img/icon.png?raw=true)](https://play.google.com/store/apps/details?id=com.AppAuxin.ios_calculator)
 
 
 
